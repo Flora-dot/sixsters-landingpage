@@ -91,6 +91,7 @@ header nav>div:last-of-type {
 
 .item_1 img{
     width: 90%;
+    height: auto;
     margin-top: 30px;
 
 }
@@ -112,8 +113,9 @@ header nav>div:last-of-type {
 }
 
 
-.item_2 span{
+#six{
     color: #eb5757;
+    font-size: 1rem;
 }
 
 
